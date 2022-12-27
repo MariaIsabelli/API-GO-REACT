@@ -1,2 +1,11 @@
-# API-GO---REACT
-Desenvolvendo uma API com GO com docker e front-end em react . 
+# API-GO-REACT
+API para personalidades onde você pode acresentar, editar ou deletar as mesmas - CRUD </br>
+</br>
+API foi desenvolvida com a linguagem GO no ambeinte de desenvolvimento do  [VSCode](https://code.visualstudio.com) </br>
+Para deixar mais facil ainda seu desenvolvimento utilize a extenção [GO](https://marketplace.visualstudio.com/items?itemName=golang.go) do VScode.
+</br>
+Caso tenha interesse o passo a passo para construção da API -> [Construindo API com GO](https://www.notion.so/Desenvolvendo-uma-API-com-GO-374359a9c5bd4d42a0a7ac5673d2bfb9)
+
+<p align="center">  
+<img src="https://miro.medium.com/max/566/1*Dkmqx1iM4P15wthwBWGCEQ.gif" width="282"/>
+</p>
