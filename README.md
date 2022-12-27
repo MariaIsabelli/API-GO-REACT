@@ -1,4 +1,10 @@
 # API-GO-REACT
+
+<p align="center">
+<img src="https://github.com/MariaIsabelli/API-GO-REACT/blob/main/REACT-GO.png" width="282"/>
+</p>
+
+</br>
 API para personalidades onde você pode acresentar, editar ou deletar as mesmas - CRUD </br>
 </br>
 API foi desenvolvida com a linguagem GO no ambeinte de desenvolvimento do  [VSCode](https://code.visualstudio.com) </br>
