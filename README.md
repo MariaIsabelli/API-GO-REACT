@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/MariaIsabelli/API-GO-REACT/blob/main/REACT-GO.png" width="282"/>
 </p>
-<a href="BruteForceDiretorioo.py">BruteForceDiretorio</a>
+
 
 </br>
 API para personalidades onde você pode acresentar, editar ou deletar as mesmas - CRUD </br>
